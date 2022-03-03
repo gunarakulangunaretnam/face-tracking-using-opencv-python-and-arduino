@@ -7,13 +7,30 @@ This is a face tracking system with Opencv + Python and Arduino. It is for educa
 This simple prototype could be used to build highly security system for military purposes and usages.
 
 ### Programming Languages & Frameworks
-- Python
-- CVZONE
+- Python 3.8
+- CVZONE Module
 
 ### Architecture Diagram
 
 ![Diagram](github-readme-content/architecture-diagram.jpg)
 
+
+### Configuration and Setup
+
+#### Run only detection
+
+- Install OpenCV
+
+  ```
+    pip install opencv-python
+  ```
+
+
+  - Install cvzone
+
+    ```
+      pip install cvzone
+    ```
 
 ### Execution and Running
 
