@@ -1,4 +1,4 @@
-## FACE TRACKING WITH OPENCV PYTHON AND ARDUINO
+# Face Tracking With Opencv Python And Arduino
 
 ### Introduction
 
@@ -59,7 +59,7 @@ This simple prototype could be used to build highly security system for military
 ![Demo2](github-readme-content/demo2.jpg)
 
 
-# CONTACT
+# Contact
 
 ### Website: 
 
